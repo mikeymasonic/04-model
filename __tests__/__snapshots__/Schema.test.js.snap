@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Schema throws on a bad schema 1`] = `"invalid schema >> Error: name is required,Error: Cannot cast >>hi<< to Number"`;
