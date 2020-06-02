@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Validator required fields returns the field 1`] = `"name is required"`;
